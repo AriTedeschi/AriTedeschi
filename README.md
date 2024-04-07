@@ -11,7 +11,7 @@
 ## Technologies
 
 <div align="center"> 
-  <a href="https://github.com/GuilhermeSaracura">
+  <a href="https://github.com/AriTedeschi">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AriTedeschi&show_icons=true&theme=dark"/>
 </div>
 <br>
