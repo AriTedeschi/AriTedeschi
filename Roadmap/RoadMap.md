@@ -56,7 +56,7 @@ Relational Database:
 - [x] Postgres
 - [x] Mysql
 - [x] Sql Server
-- [x] PLSQL
+- [x] Oracle Database
 
 Non-relational Databases:
 - [ ] Redis;
