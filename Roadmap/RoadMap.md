@@ -23,6 +23,7 @@ Design Patterns:
 - [x] Facade;
 - [x] Strategy;
 - [ ] Transporter;
+
 Java Libraries and Priciples:
 - [ ] Quarkus;
 - [x] Rest Maturity Levels;
