@@ -191,14 +191,19 @@ https://dly.to
 ### Cloud Messaging Patterns
 🔹 Asynchronous Request-Reply  
 This pattern aims at providing determinism for long-running backend tasks. It decouples backend processing from frontend clients.
+
 🔹 Publisher-Subscriber  
 This pattern targets decoupling senders from consumers, and avoiding blocking the sender to wait for a response.
+
 🔹 Claim Check  
 This pattern solves the transmision of large messages. It stores the whole message payload into a database and transmits only the reference to the message, which will be used later to retrieve the payload from the database.
+
 🔹 Priority Queue  
 This pattern prioritizes requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.
+
 🔹 Saga  
 Saga is used to manage data consistency across multiple services in distributed systems, especially in microservices architectures where each service manages its own database.
+
 🔹 Competing Consumers  
 This pattern enables multiple concurrent consumers to process messages received on the same messaging channel. There is no need to configure complex coordination between the consumers. However, this pattern cannot guarantee message ordering.
 
