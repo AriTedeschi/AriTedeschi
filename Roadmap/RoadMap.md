@@ -79,6 +79,7 @@ Queues:
 	 - [x] Docker Compose;
  - [ ] Kubernetes;
  - [ ] OpenShift;
+ - [ ] Trivy
  - [ ] Rundeck.
  
  Infrastructure:
@@ -90,6 +91,7 @@ Infrastructure as Code:
 - [ ] Cloudformation;
 - [ ] Terraform;
 - [ ] Ansible;
+- [ ] Hashcorp Vault
 
 Cloud Providers:
 - [x] Azure;
