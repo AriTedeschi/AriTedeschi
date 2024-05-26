@@ -2,7 +2,16 @@
 
 ⚙️ Computer Engineer
 
-🏬 System Analyst at GFT Technologies Brazil
+🏬 Fullstack developer 
+- 3y Java
+- 3y Python
+- 3y Javascript
+- 3y Angular, Vue.js
+- 3y Spring
+- 5y using Postgree, MySQL, Oracle Database and SQL Server
+- 2y MongoDB
+- 1y Apache Kafka, Docker, Kubernets
+(2024)
 
 ## Projects I've collaborated
 - [✒️ Draw.IT](https://github.com/vininew921/draw.it) | Project inspired by Gartic game implemented with  `JavaScript` using the `Socket.IO` library
@@ -10,11 +19,6 @@
 
 ## Technologies
 
-<div align="center"> 
-  <a href="https://github.com/AriTedeschi">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AriTedeschi&show_icons=true&theme=dark"/>
-</div>
-<br>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Ari-Angular" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
   <img align="center" alt="Ari-Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
