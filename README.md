@@ -3,15 +3,15 @@
 ⚙️ Computer Engineer
 
 🏬 Fullstack developer 
-- 3y Java
-- 3y Python
-- 3y Javascript
-- 3y Angular, Vue.js
-- 3y Spring
+- 4y Java
+- 4y Python
+- 5y Javascript
+- 4y Angular, Vue.js
+- 5y Spring
 - 5y using Postgree, MySQL, Oracle Database and SQL Server
 - 2y MongoDB
-- 1y Apache Kafka, Docker, Kubernets
-(2024)
+- 2y Apache Kafka, Docker, Kubernets
+(2025)
 
 ## Projects I've collaborated
 - [✒️ Draw.IT](https://github.com/vininew921/draw.it) | Project inspired by Gartic game implemented with  `JavaScript` using the `Socket.IO` library
